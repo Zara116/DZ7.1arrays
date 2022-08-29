@@ -20,7 +20,7 @@ public class StatsServiceTest {
         StatsService service = new StatsService();
         long[] sales = {180};
         long actual = service.average(sales);
-        long expected = 15;
+        long expected = (180/12);
 
         Assertions.assertEquals(expected, actual);
     }

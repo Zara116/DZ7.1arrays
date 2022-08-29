@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3bb04b2-edf9-47ed-bb9c-41b8a744c9b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +37,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Homework/DZ7.1/src/test/java",
-    "last_opened_file_path": "C:/Homework/DZ7.1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Homework/DZ7.1/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework/DZ7.1&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.StatsServiceTest.countAboveAverage">
-    <configuration name="StatsServiceTest.MaxSalesMonthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.AverageMonthlySalesTest">
+    <configuration name="StatsServiceTest.AverageMonthlySalesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DZ7.1" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +57,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.stats" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
-      <option name="METHOD_NAME" value="MaxSalesMonthTest" />
+      <option name="METHOD_NAME" value="AverageMonthlySalesTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StatsServiceTest.AverageMonthlySalesTest" />
         <item itemvalue="JUnit.StatsServiceTest.countAboveAverage" />
         <item itemvalue="JUnit.StatsServiceTest.countBelowAverage" />
         <item itemvalue="JUnit.StatsServiceTest.minSalesMonthTest" />
         <item itemvalue="JUnit.StatsServiceTest.maxSalesMonthTest" />
-        <item itemvalue="JUnit.StatsServiceTest.MaxSalesMonthTest" />
       </list>
     </recent_temporary>
   </component>
