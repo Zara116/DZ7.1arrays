@@ -44,7 +44,7 @@ public class StatsService {
     public int countBelowAverage(long[] sales) {
         int count = 0;
         for (long sale : sales) {
-            if (sale < 15) {
+            if (sale < 180/12) {
                 count++;
             }
         }
@@ -54,7 +54,7 @@ public class StatsService {
     public int countAboveAverage(long[] sales) {
         int count = 0;
         for (long sale : sales) {
-            if (sale > 15) {
+            if (sale > 180/12) {
                 count++;
             }
         }
